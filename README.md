@@ -7,7 +7,7 @@
 </p>
 <p align="center">
     <img src="https://readmestatslol.vercel.app/api?username=abigailraven&theme=darcula&hide_border=true&background=FFFFFF00" alt="abigailraven's GitHub stats" /><img src="https://readmestatslol.vercel.app/api/top-langs/?username=abigailraven&theme=darcula&hide_border=true&background=FFFFFF00" alt="Top Languages" />
-    <a href="https://github.com/abigailraven/StormMonitorPython" target="_blank"><img src="https://readmestatslol.vercel.app/api/pin/?username=abigailraven&repo=StormMonitorPython&theme=darcula&hide_border=true&background=FFFFFF00"></a><a href="https://github.com/abigailraven/localStorage-nodejs" target="_blank"><img src="https://readmestatslol.vercel.app/api/pin/?username=abigailraven&repo=localStorage-nodejs&theme=darcula&hide_border=true&background=FFFFFF00"></a>
+    <a href="https://github.com/abigailraven/StormMonitorPython" target="_blank"><img src="https://readmestatslol.vercel.app/api/pin/?username=abigailraven&repo=StormMonitorPython&theme=darcula&hide_border=true&background=FFFFFF00"></a>
     <img src="https://raw.githubusercontent.com/abigailraven/abigailraven/output/github-contribution-grid-snake-dark.svg" alt="github-user-contribution snk.svg image">
     
 </p>
